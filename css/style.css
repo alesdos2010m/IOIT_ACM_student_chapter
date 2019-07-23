@@ -100,8 +100,12 @@ float: left;
 }
 .heading1{
 font-size: 28px;
-font-family: "SF PRO DISPLAY";
- border-bottom: solid #ffffff 1px; margin-bottom:20px; margin-left: 20px;
+font-family: 'Slabo 27px', serif;
+ border-bottom: solid #ffffff 2px; margin-bottom:20px; margin-left: 20px;
+}
+.heading2{
+font-size: 20px;
+font-family: 'Slabo 27px', serif;
 }
 .joinus:hover{
 
